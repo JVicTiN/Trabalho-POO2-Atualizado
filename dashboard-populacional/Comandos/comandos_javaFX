@@ -1,0 +1,10 @@
+   $FX = "C:\javafx-sdk-25.0.5\lib"
+   mkdir out -Force
+   javac -encoding UTF-8 --module-path $FX --add-modules javafx.controls -d out (Get-ChildItem -Recurse src -Filter *.java).FullName
+
+
+
+
+
+
+      java --module-path $FX --add-modules javafx.controls --enable-native-access=javafx.graphics -cp out com.dashboard.populacional.ui.AppFX

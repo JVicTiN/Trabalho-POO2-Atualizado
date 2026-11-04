@@ -1,0 +1,28 @@
+UF;ESTADO;MUNICIPIO;AREA_KM2;ANO;POPULACAO
+SP;Sao Paulo;1521.11;2010;11253503
+SP;Sao Paulo;Sao Paulo;1521.11;2015;11967825
+SP;Sao Paulo;Sao Paulo;1521.11;2020;12325232
+SP;Sao Paulo;Campinas;794.57;2010;1080999
+SP;Sao Paulo;Campinas;794.57;2015;1164098
+SP;Sao Paulo;Campinas;794.57;3000;1213792
+RJ;Rio de Janeiro;Rio de Janeiro;1200.27;2010;6320446
+RJ;Rio de Janeiro;Rio de Janeiro;1200.27;2015;6498837
+RJ;Rio de Janeiro;Rio de Janeiro;1200.27;2020;6747815
+RJ;Rio de Janeiro;Niteroi;133.92;2010;487327
+RJ;Rio de Janeiro;Niteroi;133.92;2015;496696
+RJ;Rio de Janeiro;Niteroi;133.92;2020;515317
+MG;Minas Gerais;Belo Horizonte;331.40;2010;2375151
+MG;Minas Gerais;Belo Horizonte;331.40;2015;2502557
+MG;Minas Gerais;Belo Horizonte;331.40;2020;2521564
+GO;Goias;Goiania;728.75;2010;1302001
+GO;Goias;Goiania;728.75;2015;1430697
+GO;Goias;;728.75;2020;1555626
+GO;Goias;Rio Verde;8397.60;2010;176574
+GO;Goias;Rio Verde;8397.60;2015;220470
+GO;Goias;Rio Verde;8397.60;2020;244118
+BA;Bahia;Salvador;693.28;2010;2675656
+BA;Bahia;Salvador;693.28;2015;2892625
+BA;Bahia;Salvador;693.28;2020;2886698
+PR;Parana;Curitiba;0;2010;1751907
+PR;Parana;Curitiba;435.04;2015;1879355
+PR;Parana;Curitiba;435.04;2020;1963726
